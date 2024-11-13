@@ -6,7 +6,6 @@ import { motion, AnimatePresence } from "framer-motion";
 import dynamic from "next/dynamic";
 import { FaBirthdayCake, FaGift } from "react-icons/fa";
 import { GiBalloons } from "react-icons/gi";
-import Image from "next/image";
 
 type ConfettiProps = {
   width: number;
